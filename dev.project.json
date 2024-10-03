@@ -1,0 +1,16 @@
+{
+	"name": "Machinist Dev",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"Machinist": {
+				"$path": "default.project.json"
+			}
+		},
+		"ServerScriptService": {
+			"MachinistTest": {
+				"$path": "tests"
+			}
+		}
+	}
+}
